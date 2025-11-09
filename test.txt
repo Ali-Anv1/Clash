@@ -287,6 +287,13 @@ proxies:
     cipher: aes-256-cfb
     password: "wjTugX3ZtHMB9c3Z"
     udp: true
+  - name: "Us-DR-Anv  🇺🇸"
+    type: ss
+    server: 107.151.182.253
+    port: 8080
+    cipher: rc4-md5
+    password: "14fFPrbezE3HDZzsMOr6"
+    udp: true
   - name: "hamedp71-🇵🇱-49"
     type: ss
     server: 217.30.10.70
