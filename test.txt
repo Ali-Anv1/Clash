@@ -215,7 +215,16 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
-  - name: "🇳🇱 hamedp71 - 02"
+  - name: "Dr-Anv-Au🇦🇺"
+    type: hysteria2
+    server: channel2.saghetalaie.homes
+    port: 46914
+    password: "freehomesvpnchannel3"
+    sni: "www.google.com"
+    obfs: salamander
+    obfs-password: "&O#28YB5qK!5t#U"
+    skip-cert-verify: true
+  - name: "🇳🇱 DR-Anv - 02"
     type: hysteria2
     server: channel3.saghetalaie.homes
     port: 46914
