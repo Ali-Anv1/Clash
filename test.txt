@@ -215,6 +215,15 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
+  - name: "🇫🇮 DR-Anv - 0"
+    type: hysteria2
+    server: channel1.saghetalaie.homes
+    port: 46914
+    password: "freehomesvpnchannel3"
+    sni: "www.google.com"
+    obfs: salamander
+    obfs-password: "&O#28YB5qK!5t#U"
+    skip-cert-verify: true
   - name: "Dr-Anv-Au 🇦🇺"
     type: hysteria2
     server: channel2.saghetalaie.homes
@@ -1741,6 +1750,9 @@ proxy-groups:
       - "اتصال❤️خودکار"
       - "⛓️عمو زنجیر باف⛓️"
       - "🤍 وارپ"
+      - "🇳🇱 DR-Anv - 02"
+      - "🇫🇮 DR-Anv - 0"
+      - "Dr-Anv-Au 🇦🇺"
       - "DE-hamedp71🇩🇪"
       - "MA-hamedp71🇲🇦"
       - "AR-hamedp71🇦🇷"
