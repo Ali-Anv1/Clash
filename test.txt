@@ -1815,6 +1815,7 @@ proxy-groups:
     interval: 30
     tolerance: 120
     proxies:
+      - "🇩🇪 Dr-Anv2020"
       - "DE-hamedp71🇩🇪"
       - "MA-hamedp71🇲🇦"
       - "AR-hamedp71🇦🇷"
