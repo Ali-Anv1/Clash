@@ -110,6 +110,16 @@ proxies:
     udp_relay_mode: native
     reduce_rtt: true
 
+ - name: "Dr-Anv 🇨🇦"
+   type: tuic
+   server: 40.233.77.57
+   port: 52434
+   uuid: a13a6ce4-cafa-4b26-a710-a03aa91c5418
+   password: a13a6ce4-cafa-4b26-a710-a03aa91c5418
+   sni: www.bing.com
+  alpn:
+    - h3
+
   - name: TUIC-hamedp71-1🇩🇪
     type: tuic
     server: 217.160.125.127
