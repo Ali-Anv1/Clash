@@ -228,6 +228,12 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
+  - name: "🇩🇪 Dr-Anv2020"
+    type: hysteria2
+    server: 217.160.125.127
+    port: 14873
+    password: "ieshare2025"
+    sni: "www.bing.com"
   - name: "🇫🇮 DR-Anv - 0"
     type: hysteria2
     server: channel1.saghetalaie.homes
