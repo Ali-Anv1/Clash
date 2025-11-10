@@ -228,12 +228,6 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
-  - name: "🇩🇪 Dr-Anv2020"
-    type: hysteria2
-    server: 217.160.125.127
-    port: 14873
-    password: "ieshare2025"
-    sni: "www.bing.com"
   - name: "🇫🇮 DR-Anv - 0"
     type: hysteria2
     server: channel1.saghetalaie.homes
@@ -1776,7 +1770,6 @@ proxy-groups:
       - "اتصال❤️خودکار"
       - "⛓️عمو زنجیر باف⛓️"
       - "🤍 وارپ"
-      - "🇩🇪 Dr-Anv2020"
       - "Dr-Anv 🇨🇦"
       - "Us-DR-Anv-🇺🇸"
       - "🇳🇱 DR-Anv - 02"
@@ -1816,7 +1809,6 @@ proxy-groups:
     interval: 30
     tolerance: 120
     proxies:
-      - "🇩🇪 Dr-Anv2020"
       - "DE-hamedp71🇩🇪"
       - "MA-hamedp71🇲🇦"
       - "AR-hamedp71🇦🇷"
