@@ -119,6 +119,9 @@ proxies:
     sni: www.bing.com
     alpn:
       - h3
+    udp-relay-mode: native
+    congestion-controller: cubic
+    skip-cert-verify: true
 
   - name: TUIC-hamedp71-1🇩🇪
     type: tuic
