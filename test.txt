@@ -113,12 +113,6 @@ proxies:
     congestion-controller: cubic
     skip-cert-verify: true
 
-    # برای جلوگیری از خطای گواهی SSL
-    skip-cert-verify: true
-    congestion_control: bbr
-    udp_relay_mode: native
-    reduce_rtt: true
-
   # کانفیگ سوم - ایتالیا
   - name: "DE-DR-Anv🇩🇪"
     type: ss
