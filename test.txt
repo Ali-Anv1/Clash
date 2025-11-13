@@ -402,6 +402,18 @@ proxies:
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
   - name: "🇵🇾-DR-Anv- § 1"
+  - name: "🇩🇪 ShadowTLS-Proxy2"
+    type: ss
+    server: net2026.safavidempire.org
+    port: 443
+    cipher: chacha20-ietf-poly1305
+    password: "164c1a57-a952-4962-a848-77355f4864fc"
+    plugin: shadow-tls
+    plugin-opts:
+      host: www.google.com
+      password: "164c1a57-a952-4962-a848-77355f4864fc"
+      version: 3
+      dialer-proxy: "Us-DR-Anv-🇺🇸"
     type: ss
     server: 195.181.160.6
     port: 990
