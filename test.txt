@@ -401,19 +401,14 @@ proxies:
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇵🇾-DR-Anv- § 1"
-  - name: "🇩🇪 ShadowTLS-Proxy2"
+  - name: "Dr-Anv-I"
     type: ss
-    server: net2026.safavidempire.org
-    port: 443
+    server: 193.29.139.191
+    port: 8080
     cipher: chacha20-ietf-poly1305
-    password: "164c1a57-a952-4962-a848-77355f4864fc"
-    plugin: shadow-tls
-    plugin-opts:
-      host: www.google.com
-      password: "164c1a57-a952-4962-a848-77355f4864fc"
-      version: 3
-      dialer-proxy: "Us-DR-Anv-🇺🇸"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    dialer-proxy: "Us-DR-Anv-🇺🇸"
+  - name: "🇵🇾-DR-Anv- § 1"
     type: ss
     server: 195.181.160.6
     port: 990
@@ -1970,7 +1965,7 @@ proxy-groups:
   - name: "⛓️عمو زنجیر باف⛓️"
     type: select
     proxies:
-      - "🇩🇪 ShadowTLS-Proxy2"
+      - "Dr-Anv-I"
       - "🇺🇸-DR-Anv- § 0"
       - "🇵🇾-DR-Anv- § 1"
       - "🇬🇧-DR-Anv- § 2"
