@@ -1970,6 +1970,7 @@ proxy-groups:
   - name: "⛓️عمو زنجیر باف⛓️"
     type: select
     proxies:
+      - "🇩🇪 ShadowTLS-Proxy2"
       - "🇺🇸-DR-Anv- § 0"
       - "🇵🇾-DR-Anv- § 1"
       - "🇬🇧-DR-Anv- § 2"
