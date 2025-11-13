@@ -95,7 +95,7 @@ proxies:
     servername: "suiany.makingirangreatagain.com"
 
 
-  - name: TUIC-hamedp71🇩🇪
+  - name: TUIC-DR-Anv🇩🇪
     type: tuic
     server: 217.160.125.125
     port: 14732
@@ -123,7 +123,7 @@ proxies:
     congestion-controller: cubic
     skip-cert-verify: true
 
-  - name: TUIC-hamedp71-1🇩🇪
+  - name: TUIC-DR-Anv-1🇩🇪
     type: tuic
     server: 217.160.125.127
     port: 14853
@@ -138,7 +138,7 @@ proxies:
     udp_relay_mode: native
     reduce_rtt: true
 
-  - name: TUIC-hamedp71-2🇩🇪
+  - name: TUIC-DR-Anv-2🇩🇪
     type: tuic
     server: 217.160.125.128
     port: 14713
@@ -187,7 +187,7 @@ proxies:
     reduce_rtt: true
 
   # کانفیگ سوم - ایتالیا
-  - name: "DE-hamedp71🇩🇪"
+  - name: "DE-DR-Anv🇩🇪"
     type: ss
     server: 176.126.83.158
     port: 990
@@ -195,7 +195,7 @@ proxies:
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
 
   # کانفیگ پنجم - مراکش
-  - name: "MA-hamedp71🇲🇦"
+  - name: "MA-DR-Anv🇲🇦"
     type: ss
     server: 188.214.157.58
     port: 990
@@ -203,14 +203,14 @@ proxies:
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="   
 
   # کانفیگ اول - آرژانتین
-  - name: "AR-hamedp71🇦🇷"
+  - name: "AR-DR-Anv🇦🇷"
     type: ss
     server: 190.103.176.32
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
     
-  - name: "🇳🇱 hamedp71 - 1"
+  - name: "🇳🇱 DR-Anv - 1"
     type: hysteria2
     server: 206.71.158.37
     port: 36300
@@ -219,7 +219,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: false
-  - name: "🇳🇱 hamedp71 - 2"
+  - name: "🇳🇱 DR-Anv - 2"
     type: hysteria2
     server: 206.71.158.37
     port: 35000
@@ -255,7 +255,7 @@ proxies:
     obfs: salamander
     obfs-password: "&O#28YB5qK!5t#U"
     skip-cert-verify: true
-  - name: "🇳🇱 hamedp71 - 3"
+  - name: "🇳🇱 DR-Anv - 3"
     type: hysteria2
     server: 206.71.158.37
     port: 36600
@@ -264,7 +264,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: true
-  - name: "🇳🇱 hamedp71 - 4"
+  - name: "🇳🇱 DR-Anv - 4"
     type: hysteria2
     server: 206.71.158.37
     port: 35200
@@ -273,7 +273,7 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: false
-  - name: "🇳🇱 hamedp71 - 6"
+  - name: "🇳🇱 DR-Anv - 6"
     type: hysteria2
     server: 81.168.83.89
     port: 2083
@@ -282,7 +282,7 @@ proxies:
     obfs: salamander
     obfs-password: "khameniiko@smad@ret"
     skip-cert-verify: true
-  - name: "🇬🇧 hamedp71 13"
+  - name: "🇬🇧 DR-Anv 13"
     type: hysteria2
     server: 81.168.83.89
     port: 2083
@@ -293,7 +293,7 @@ proxies:
     obfs-password: "khameniiko@smad@ret"
 
 #لهستان
-  - name: "hamedp71-🇵🇱-47"
+  - name: "DR-Anv-🇵🇱-47"
     type: ss
     server: 217.30.10.70
     port: 9057
@@ -307,70 +307,70 @@ proxies:
     cipher: rc4-md5
     password: "14fFPrbezE3HDZzsMOr6"
     udp: true
-  - name: "hamedp71-🇵🇱-49"
+  - name: "DR-Anv-🇵🇱-49"
     type: ss
     server: 217.30.10.70
     port: 9033
     cipher: aes-256-cfb
     password: "UTJA57ypk2XKQpnm"
     udp: true
-  - name: "hamedp71-🇵🇱-51"
+  - name: "DR-Anv-🇵🇱-51"
     type: ss
     server: 217.30.10.70
     port: 9003
     cipher: aes-256-cfb
     password: "JdmRK9gMEqFgs8nP"
     udp: true
-  - name: "hamedp71-🇵🇱-52"
+  - name: "DR-Anv-🇵🇱-52"
     type: ss
     server: 217.30.10.18
     port: 9042
     cipher: aes-256-cfb
     password: "S7KwUu7yBy58S3Ga"
     udp: true
-  - name: "hamedp71-🇵🇱-53"
+  - name: "DR-Anv-🇵🇱-53"
     type: ss
     server: 217.30.10.18
     port: 9027
     cipher: aes-256-cfb
     password: "EXN3S3eQpjE7EJu8"
     udp: true
-  - name: "hamedp71-🇵🇱-55"
+  - name: "DR-Anv-🇵🇱-55"
     type: ss
     server: 217.30.10.18
     port: 9084
     cipher: aes-256-cfb
     password: "c3NtHJ5ujV2tGDfj"
     udp: true
-  - name: "hamedp71-🇵🇱-60"
+  - name: "DR-Anv-🇵🇱-60"
     type: ss
     server: 217.30.10.18
     port: 9018
     cipher: aes-256-cfb
     password: "fG2artUmHfNT2cX7"
     udp: true
-  - name: "hamedp71-🇵🇱-61"
+  - name: "DR-Anv-🇵🇱-61"
     type: ss
     server: 217.30.10.70
     port: 9070
     cipher: aes-256-cfb
     password: "bf7v334KKDV3YDhH"
     udp: true
-  - name: "hamedp71-🇵🇱-62"
+  - name: "DR-Anv-🇵🇱-62"
     type: ss
     server: 217.30.10.70
     port: 9014
     cipher: aes-256-cfb
     password: "KnJGad3FqTvjqbaX"
     udp: true
-  - name: "hamedp71-🇵🇱-66"
+  - name: "DR-Anv-🇵🇱-66"
     type: ss
     server: 217.30.10.18
     port: 9046
     cipher: aes-256-cfb
     password: "NvS8N4Vf8qAGPSCL"
     udp: true
-  - name: "hamedp71-🇵🇱-67"
+  - name: "DR-Anv-🇵🇱-67"
     type: ss
     server: 217.30.10.70
     port: 9046
@@ -394,112 +394,112 @@ proxies:
       headers:
         Host: azadnet-4n9.pages.dev
 # --- پراکسی‌های زنجیره‌ای با استفاده از dialer-proxy ---
-  - name: "🇺🇸-hamedp71- § 0"
+  - name: "🇺🇸-DR-Anv- § 0"
     type: ss
     server: 37.19.198.244
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇵🇾-hamedp71- § 1"
+  - name: "🇵🇾-DR-Anv- § 1"
     type: ss
     server: 195.181.160.6
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇬🇧-hamedp71- § 2"
+  - name: "🇬🇧-DR-Anv- § 2"
     type: ss
     server: 141.98.101.181
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇨🇦2-hamedp71- § 4"
+  - name: "🇨🇦2-DR-Anv- § 4"
     type: ss
     server: 142.4.216.225
     port: 80
     cipher: chacha20-ietf-poly1305
     password: "JIhN6rBKkaEboLNXVSv5rq"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇺🇸2-hamedp71- § 5"
+  - name: "🇺🇸2-DR-Anv- § 5"
     type: ss
     server: 156.146.38.170
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇸🇬-hamedp71- § 6"
+  - name: "🇸🇬-DR-Anv- § 6"
     type: ss
     server: 203.23.128.33
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇳🇱-hamedp71- § 7"
+  - name: "🇳🇱-DR-Anv- § 7"
     type: ss
     server: 193.29.139.164
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: "4a2rfixophdjffa8KVA4Aa"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇪🇸-hamedp71- § 9"
+  - name: "🇪🇸-DR-Anv- § 9"
     type: ss
     server: 45.154.206.192
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇮🇳-hamedp71- § 10"
+  - name: "🇮🇳-DR-Anv- § 10"
     type: ss
     server: 82.180.146.173
     port: 30607
     cipher: aes-128-gcm
     password: "162629d7-cb17-43b1-82c9-f9c7ae6cba70"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇩🇪-hamedp71- § 11"
+  - name: "🇩🇪-DR-Anv- § 11"
     type: ss
     server: 51.195.119.47
     port: 1080
     cipher: chacha20-ietf-poly1305
     password: "qXvO7zYU7KeaB0Md7DQLow"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇯🇵-hamedp71- § 12"
+  - name: "🇯🇵-DR-Anv- § 12"
     type: ss
     server: 149.22.87.204
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇳🇱-hamedp71- § 13"
+  - name: "🇳🇱-DR-Anv- § 13"
     type: ss
     server: 45.158.171.66
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇨🇦 -hamedp71- § 14"
+  - name: "🇨🇦 -DR-Anv- § 14"
     type: ss
     server: 64.74.163.82
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇹🇷-hamedp71- § 15"
+  - name: "🇹🇷-DR-Anv- § 15"
     type: ss
     server: 185.123.101.241
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "f8f7aCzcPKbsF8p3"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇺🇸3-hamedp71- § 16"
+  - name: "🇺🇸3-DR-Anv- § 16"
     type: ss
     server: 173.244.56.6
     port: 443
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "🇨🇦-hamedp71- § 17"
+  - name: "🇨🇦-DR-Anv- § 17"
     type: ss
     server: 142.4.216.225
     port: 80
@@ -508,7 +508,7 @@ proxies:
     dialer-proxy: "VLESS-Entry"
     
 #warp
-  - name: "🇦🇹 hamedp71"
+  - name: "🇦🇹 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -535,7 +535,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-1"
+  - name: "🇦🇺 DR-Anv-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -562,7 +562,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇦🇺 hamedp71-2"
+  - name: "🇦🇺 DR-Anv-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -588,7 +588,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇦🇺 hamedp71-3"
+  - name: "🇦🇺 DR-Anv-3"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -614,7 +614,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-4"
+  - name: "🇦🇺 DR-Anv-4"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -640,7 +640,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-5"
+  - name: "🇦🇺 DR-Anv-5"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -666,7 +666,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71"
+  - name: "🇦🇺 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -692,7 +692,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇦🇺 hamedp71-6"
+  - name: "🇦🇺 DR-Anv-6"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -718,7 +718,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇧🇦 hamedp71"
+  - name: "🇧🇦 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -744,7 +744,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-1"
+  - name: "🇨🇦 DR-Anv-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -770,7 +770,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-2"
+  - name: "🇨🇦 DR-Anv-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -796,7 +796,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-3"
+  - name: "🇨🇦 DR-Anv-3"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -822,7 +822,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇦 hamedp71-4"
+  - name: "🇨🇦 DR-Anv-4"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -848,7 +848,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇭 hamedp71-1"
+  - name: "🇨🇭 DR-Anv-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -874,7 +874,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇾 hamedp71"
+  - name: "🇨🇾 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -900,7 +900,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇨🇿 hamedp71"
+  - name: "🇨🇿 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -926,7 +926,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇫🇷 hamedp71-1"
+  - name: "🇫🇷 DR-Anv-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -952,7 +952,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇬🇧 hamedp71"
+  - name: "🇬🇧 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -978,7 +978,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇭🇰 hamedp71"
+  - name: "🇭🇰 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1004,7 +1004,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇸 hamedp71"
+  - name: "🇮🇸 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: ""
@@ -1030,7 +1030,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇸 hamedp71-1"
+  - name: "🇮🇸 DR-Anv-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: ""
@@ -1056,7 +1056,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇸 hamedp71-2"
+  - name: "🇮🇸 DR-Anv-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1082,7 +1082,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇮🇪 hamedp71"
+  - name: "🇮🇪 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1108,7 +1108,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇰🇪 hamedp71"
+  - name: "🇰🇪 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1134,7 +1134,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇱🇹 hamedp71"
+  - name: "🇱🇹 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: ""
@@ -1160,7 +1160,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇱🇺 hamedp71"
+  - name: "🇱🇺 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1186,7 +1186,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇲🇰 hamedp71"
+  - name: "🇲🇰 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1212,7 +1212,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇳🇱 hamedp71-1"
+  - name: "🇳🇱 DR-Anv-1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1238,7 +1238,7 @@ proxies:
       h3: 3
       h4: 4
       
-  - name: "🇳🇱 hamedp71-2"
+  - name: "🇳🇱 DR-Anv-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1264,7 +1264,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇳🇴 hamedp71"
+  - name: "🇳🇴 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1290,7 +1290,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇳🇿 hamedp71"
+  - name: "🇳🇿 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1316,7 +1316,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇵🇦 hamedp71"
+  - name: "🇵🇦 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1342,7 +1342,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇷🇺 hamedp71-2"
+  - name: "🇷🇺 DR-Anv-2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1368,7 +1368,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇸🇪 hamedp71"
+  - name: "🇸🇪 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1394,7 +1394,7 @@ proxies:
       h3: 3
       h4: 4
 
-  - name: "🇸🇬 hamedp71"
+  - name: "🇸🇬 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1420,7 +1420,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇸🇬 hamedp71 1"
+  - name: "🇸🇬 DR-Anv 1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1446,7 +1446,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 2"
+  - name: "🇺🇸 DR-Anv 2"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1472,7 +1472,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 3"
+  - name: "🇺🇸 DR-Anv 3"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1498,7 +1498,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 4"
+  - name: "🇺🇸 DR-Anv 4"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1524,7 +1524,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 5"
+  - name: "🇺🇸 DR-Anv 5"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1550,7 +1550,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 6"
+  - name: "🇺🇸 DR-Anv 6"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1576,7 +1576,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 7"
+  - name: "🇺🇸 DR-Anv 7"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1602,7 +1602,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 8"
+  - name: "🇺🇸 DR-Anv 8"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1628,7 +1628,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇺🇸 hamedp71 9"
+  - name: "🇺🇸 DR-Anv 9"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1654,7 +1654,7 @@ proxies:
       h4: 3
       h3: 4   
 
-  - name: "🇺🇸 hamedp71"
+  - name: "🇺🇸 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1680,7 +1680,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇻🇳 hamedp71"
+  - name: "🇻🇳 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1706,7 +1706,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇿🇦 hamedp71 1"
+  - name: "🇿🇦 DR-Anv 1"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1732,7 +1732,7 @@ proxies:
       h4: 3
       h3: 4
 
-  - name: "🇿🇦 hamedp71"
+  - name: "🇿🇦 DR-Anv"
     type: wireguard
     ip: "100.80.234.177/32"
     ipv6: "2001:db8:1::1/128"
@@ -1775,33 +1775,81 @@ proxy-groups:
       - "🇳🇱 DR-Anv - 02"
       - "🇫🇮 DR-Anv - 0"
       - "Dr-Anv-Au 🇦🇺"
-      - "DE-hamedp71🇩🇪"
-      - "MA-hamedp71🇲🇦"
-      - "AR-hamedp71🇦🇷"
-      - "🇳🇱 hamedp71 - 1"
-      - "🇳🇱 hamedp71 - 2"
-      - "🇳🇱 hamedp71 - 3"
-      - "🇳🇱 hamedp71 - 4"
-      - "🇳🇱 hamedp71 - 6"
-      - "🇬🇧 hamedp71 13"
-      - "hamedp71-🇵🇱-47"
-      - "hamedp71-🇵🇱-49"
-      - "hamedp71-🇵🇱-51"
-      - "hamedp71-🇵🇱-52"
-      - "hamedp71-🇵🇱-53"
-      - "hamedp71-🇵🇱-55"
-      - "hamedp71-🇵🇱-60"
-      - "hamedp71-🇵🇱-61"
-      - "hamedp71-🇵🇱-62"
-      - "hamedp71-🇵🇱-66"
-      - "hamedp71-🇵🇱-67"
-      - "TUIC-hamedp71🇩🇪"
-      - "TUIC-hamedp71-1🇩🇪"
-      - "TUIC-hamedp71-2🇩🇪"
+      - "DE-DR-Anv🇩🇪"
+      - "MA-DR-Anv🇲🇦"
+      - "AR-DR-Anv🇦🇷"
+      - "🇳🇱 DR-Anv - 1"
+      - "🇳🇱 DR-Anv - 2"
+      - "🇳🇱 DR-Anv - 3"
+      - "🇳🇱 DR-Anv - 4"
+      - "🇳🇱 DR-Anv - 6"
+      - "🇬🇧 DR-Anv 13"
+      - "DR-Anv-🇵🇱-47"
+      - "DR-Anv-🇵🇱-49"
+      - "DR-Anv-🇵🇱-51"
+      - "DR-Anv-🇵🇱-52"
+      - "DR-Anv-🇵🇱-53"
+      - "DR-Anv-🇵🇱-55"
+      - "DR-Anv-🇵🇱-60"
+      - "DR-Anv-🇵🇱-61"
+      - "DR-Anv-🇵🇱-62"
+      - "DR-Anv-🇵🇱-66"
+      - "DR-Anv-🇵🇱-67"
+      - "TUIC-DR-Anv🇩🇪"
+      - "TUIC-DR-Anv-1🇩🇪"
+      - "TUIC-DR-Anv-2🇩🇪"
       - "TUIC-🇩🇪 Dr-Anv-1"
       - "TUIC-🇩🇪 Dr-Anv-2"     
       - "🇩🇪 ShadowTLS-Proxy"
       - "🇩🇪 anytls-443"
+
+  - name: ⚖️ Load-Balance
+    type: load-balance
+    strategy: round-robin 
+    url: 'http://www.google.com/generate_204'
+    interval: 30
+    proxies:
+      - "DE-DR-Anv🇩🇪"
+      - "MA-DR-Anv🇲🇦"
+      - "AR-DR-Anv🇦🇷"
+      - "🇳🇱 DR-Anv - 1"
+      - "🇳🇱 DR-Anv - 2"
+      - "🇳🇱 DR-Anv - 3"
+      - "🇳🇱 DR-Anv - 4"
+      - "🇳🇱 DR-Anv - 6"
+      - "🇬🇧 DR-Anv 13"
+      - "DR-Anv-🇵🇱-47"
+      - "DR-Anv-🇵🇱-49"
+      - "DR-Anv-🇵🇱-51"
+      - "DR-Anv-🇵🇱-52"
+      - "DR-Anv-🇵🇱-53"
+      - "DR-Anv-🇵🇱-55"
+      - "DR-Anv-🇵🇱-60"
+      - "DR-Anv-🇵🇱-61"
+      - "DR-Anv-🇵🇱-62"
+      - "DR-Anv-🇵🇱-66"
+      - "DR-Anv-🇵🇱-67"
+      - "🇺🇸-DR-Anv- § 0"
+      - "🇵🇾-DR-Anv- § 1"
+      - "🇬🇧-DR-Anv- § 2"
+      - "🇨🇦2-DR-Anv- § 4"
+      - "🇺🇸2-DR-Anv- § 5"
+      - "🇸🇬-DR-Anv- § 6"
+      - "🇳🇱-DR-Anv- § 7"
+      - "🇪🇸-DR-Anv- § 9"
+      - "🇮🇳-DR-Anv- § 10"
+      - "🇩🇪-DR-Anv- § 11"
+      - "🇯🇵-DR-Anv- § 12"
+      - "🇳🇱-DR-Anv- § 13"
+      - "🇨🇦 -DR-Anv- § 14"
+      - "🇹🇷-DR-Anv- § 15"
+      - "🇺🇸3-DR-Anv- § 16"
+      - "🇨🇦-DR-Anv- § 17"
+      - "TUIC-DR-Anv🇩🇪"
+      - "TUIC-DR-Anv-1🇩🇪"
+      - "TUIC-DR-Anv-2🇩🇪"
+      - "TUIC-🇩🇪 Dr-Anv-1"
+      - "TUIC-🇩🇪 Dr-Anv-2"
 
   - name: "اتصال❤️خودکار"
     type: url-test
@@ -1809,45 +1857,45 @@ proxy-groups:
     interval: 30
     tolerance: 120
     proxies:
-      - "DE-hamedp71🇩🇪"
-      - "MA-hamedp71🇲🇦"
-      - "AR-hamedp71🇦🇷"
-      - "🇳🇱 hamedp71 - 1"
-      - "🇳🇱 hamedp71 - 2"
-      - "🇳🇱 hamedp71 - 3"
-      - "🇳🇱 hamedp71 - 4"
-      - "🇳🇱 hamedp71 - 6"
-      - "🇬🇧 hamedp71 13"
-      - "hamedp71-🇵🇱-47"
-      - "hamedp71-🇵🇱-49"
-      - "hamedp71-🇵🇱-51"
-      - "hamedp71-🇵🇱-52"
-      - "hamedp71-🇵🇱-53"
-      - "hamedp71-🇵🇱-55"
-      - "hamedp71-🇵🇱-60"
-      - "hamedp71-🇵🇱-61"
-      - "hamedp71-🇵🇱-62"
-      - "hamedp71-🇵🇱-66"
-      - "hamedp71-🇵🇱-67"
-      - "🇺🇸-hamedp71- § 0"
-      - "🇵🇾-hamedp71- § 1"
-      - "🇬🇧-hamedp71- § 2"
-      - "🇨🇦2-hamedp71- § 4"
-      - "🇺🇸2-hamedp71- § 5"
-      - "🇸🇬-hamedp71- § 6"
-      - "🇳🇱-hamedp71- § 7"
-      - "🇪🇸-hamedp71- § 9"
-      - "🇮🇳-hamedp71- § 10"
-      - "🇩🇪-hamedp71- § 11"
-      - "🇯🇵-hamedp71- § 12"
-      - "🇳🇱-hamedp71- § 13"
-      - "🇨🇦 -hamedp71- § 14"
-      - "🇹🇷-hamedp71- § 15"
-      - "🇺🇸3-hamedp71- § 16"
-      - "🇨🇦-hamedp71- § 17"
-      - "TUIC-hamedp71🇩🇪"
-      - "TUIC-hamedp71-1🇩🇪"
-      - "TUIC-hamedp71-2🇩🇪"
+      - "DE-DR-Anv🇩🇪"
+      - "MA-DR-Anv🇲🇦"
+      - "AR-DR-Anv🇦🇷"
+      - "🇳🇱 DR-Anv - 1"
+      - "🇳🇱 DR-Anv - 2"
+      - "🇳🇱 DR-Anv - 3"
+      - "🇳🇱 DR-Anv - 4"
+      - "🇳🇱 DR-Anv - 6"
+      - "🇬🇧 DR-Anv 13"
+      - "DR-Anv-🇵🇱-47"
+      - "DR-Anv-🇵🇱-49"
+      - "DR-Anv-🇵🇱-51"
+      - "DR-Anv-🇵🇱-52"
+      - "DR-Anv-🇵🇱-53"
+      - "DR-Anv-🇵🇱-55"
+      - "DR-Anv-🇵🇱-60"
+      - "DR-Anv-🇵🇱-61"
+      - "DR-Anv-🇵🇱-62"
+      - "DR-Anv-🇵🇱-66"
+      - "DR-Anv-🇵🇱-67"
+      - "🇺🇸-DR-Anv- § 0"
+      - "🇵🇾-DR-Anv- § 1"
+      - "🇬🇧-DR-Anv- § 2"
+      - "🇨🇦2-DR-Anv- § 4"
+      - "🇺🇸2-DR-Anv- § 5"
+      - "🇸🇬-DR-Anv- § 6"
+      - "🇳🇱-DR-Anv- § 7"
+      - "🇪🇸-DR-Anv- § 9"
+      - "🇮🇳-DR-Anv- § 10"
+      - "🇩🇪-DR-Anv- § 11"
+      - "🇯🇵-DR-Anv- § 12"
+      - "🇳🇱-DR-Anv- § 13"
+      - "🇨🇦 -DR-Anv- § 14"
+      - "🇹🇷-DR-Anv- § 15"
+      - "🇺🇸3-DR-Anv- § 16"
+      - "🇨🇦-DR-Anv- § 17"
+      - "TUIC-DR-Anv🇩🇪"
+      - "TUIC-DR-Anv-1🇩🇪"
+      - "TUIC-DR-Anv-2🇩🇪"
       - "TUIC-🇩🇪 Dr-Anv-1"
       - "TUIC-🇩🇪 Dr-Anv-2"
 
@@ -1857,74 +1905,74 @@ proxy-groups:
     interval: 60
     tolerance: 90
     proxies:
-      - "🇦🇹 hamedp71"
-      - "🇦🇺 hamedp71-1"
-      - "🇦🇺 hamedp71-2"
-      - "🇦🇺 hamedp71-3"
-      - "🇦🇺 hamedp71-4"
-      - "🇦🇺 hamedp71-5"
-      - "🇦🇺 hamedp71"
-      - "🇦🇺 hamedp71-6"
-      - "🇧🇦 hamedp71"
-      - "🇨🇦 hamedp71-1"
-      - "🇨🇦 hamedp71-2"
-      - "🇨🇦 hamedp71-3"
-      - "🇨🇦 hamedp71-4"
-      - "🇨🇭 hamedp71-1"
-      - "🇨🇾 hamedp71"
-      - "🇨🇿 hamedp71"
-      - "🇫🇷 hamedp71-1"
-      - "🇬🇧 hamedp71"
-      - "🇭🇰 hamedp71"
-      - "🇮🇸 hamedp71"
-      - "🇮🇸 hamedp71-1"
-      - "🇮🇸 hamedp71-2"
-      - "🇮🇪 hamedp71"
-      - "🇰🇪 hamedp71"
-      - "🇱🇹 hamedp71"
-      - "🇱🇺 hamedp71"
-      - "🇲🇰 hamedp71"
-      - "🇳🇱 hamedp71-1"
-      - "🇳🇱 hamedp71-2"
-      - "🇳🇴 hamedp71"
-      - "🇳🇿 hamedp71"
-      - "🇵🇦 hamedp71"
-      - "🇷🇺 hamedp71-2"
-      - "🇸🇪 hamedp71"
-      - "🇸🇬 hamedp71"
-      - "🇸🇬 hamedp71 1"
-      - "🇺🇸 hamedp71 2"
-      - "🇺🇸 hamedp71 3"
-      - "🇺🇸 hamedp71 4"
-      - "🇺🇸 hamedp71 5"
-      - "🇺🇸 hamedp71 6"
-      - "🇺🇸 hamedp71 7"
-      - "🇺🇸 hamedp71 8"
-      - "🇺🇸 hamedp71 9"
-      - "🇺🇸 hamedp71"
-      - "🇻🇳 hamedp71"
-      - "🇿🇦 hamedp71 1"
-      - "🇿🇦 hamedp71"
+      - "🇦🇹 DR-Anv"
+      - "🇦🇺 DR-Anv-1"
+      - "🇦🇺 DR-Anv-2"
+      - "🇦🇺 DR-Anv-3"
+      - "🇦🇺 DR-Anv-4"
+      - "🇦🇺 DR-Anv-5"
+      - "🇦🇺 DR-Anv"
+      - "🇦🇺 DR-Anv-6"
+      - "🇧🇦 DR-Anv"
+      - "🇨🇦 DR-Anv-1"
+      - "🇨🇦 DR-Anv-2"
+      - "🇨🇦 DR-Anv-3"
+      - "🇨🇦 DR-Anv-4"
+      - "🇨🇭 DR-Anv-1"
+      - "🇨🇾 DR-Anv"
+      - "🇨🇿 DR-Anv"
+      - "🇫🇷 DR-Anv-1"
+      - "🇬🇧 DR-Anv"
+      - "🇭🇰 DR-Anv"
+      - "🇮🇸 DR-Anv"
+      - "🇮🇸 DR-Anv-1"
+      - "🇮🇸 DR-Anv-2"
+      - "🇮🇪 DR-Anv"
+      - "🇰🇪 DR-Anv"
+      - "🇱🇹 DR-Anv"
+      - "🇱🇺 DR-Anv"
+      - "🇲🇰 DR-Anv"
+      - "🇳🇱 DR-Anv-1"
+      - "🇳🇱 DR-Anv-2"
+      - "🇳🇴 DR-Anv"
+      - "🇳🇿 DR-Anv"
+      - "🇵🇦 DR-Anv"
+      - "🇷🇺 DR-Anv-2"
+      - "🇸🇪 DR-Anv"
+      - "🇸🇬 DR-Anv"
+      - "🇸🇬 DR-Anv 1"
+      - "🇺🇸 DR-Anv 2"
+      - "🇺🇸 DR-Anv 3"
+      - "🇺🇸 DR-Anv 4"
+      - "🇺🇸 DR-Anv 5"
+      - "🇺🇸 DR-Anv 6"
+      - "🇺🇸 DR-Anv 7"
+      - "🇺🇸 DR-Anv 8"
+      - "🇺🇸 DR-Anv 9"
+      - "🇺🇸 DR-Anv"
+      - "🇻🇳 DR-Anv"
+      - "🇿🇦 DR-Anv 1"
+      - "🇿🇦 DR-Anv"
 
   - name: "⛓️عمو زنجیر باف⛓️"
     type: select
     proxies:
-      - "🇺🇸-hamedp71- § 0"
-      - "🇵🇾-hamedp71- § 1"
-      - "🇬🇧-hamedp71- § 2"
-      - "🇨🇦2-hamedp71- § 4"
-      - "🇺🇸2-hamedp71- § 5"
-      - "🇸🇬-hamedp71- § 6"
-      - "🇳🇱-hamedp71- § 7"
-      - "🇪🇸-hamedp71- § 9"
-      - "🇮🇳-hamedp71- § 10"
-      - "🇩🇪-hamedp71- § 11"
-      - "🇯🇵-hamedp71- § 12"
-      - "🇳🇱-hamedp71- § 13"
-      - "🇨🇦 -hamedp71- § 14"
-      - "🇹🇷-hamedp71- § 15"
-      - "🇺🇸3-hamedp71- § 16"
-      - "🇨🇦-hamedp71- § 17"
+      - "🇺🇸-DR-Anv- § 0"
+      - "🇵🇾-DR-Anv- § 1"
+      - "🇬🇧-DR-Anv- § 2"
+      - "🇨🇦2-DR-Anv- § 4"
+      - "🇺🇸2-DR-Anv- § 5"
+      - "🇸🇬-DR-Anv- § 6"
+      - "🇳🇱-DR-Anv- § 7"
+      - "🇪🇸-DR-Anv- § 9"
+      - "🇮🇳-DR-Anv- § 10"
+      - "🇩🇪-DR-Anv- § 11"
+      - "🇯🇵-DR-Anv- § 12"
+      - "🇳🇱-DR-Anv- § 13"
+      - "🇨🇦 -DR-Anv- § 14"
+      - "🇹🇷-DR-Anv- § 15"
+      - "🇺🇸3-DR-Anv- § 16"
+      - "🇨🇦-DR-Anv- § 17"
       
 rule-providers:
   malware:
@@ -1995,7 +2043,7 @@ rules:
   - RULE-SET,ir,DIRECT
   - RULE-SET,ir-cidr,DIRECT
   - MATCH,💚خانه
-
+  - MATCH,⚖️ Load-Balance
 ntp:
   enable: true
   server: time.cloudflare.com
