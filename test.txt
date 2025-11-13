@@ -1769,11 +1769,6 @@ proxy-groups:
       - "🇹🇷-DR-Anv- § 15"
       - "🇺🇸3-DR-Anv- § 16"
       - "🇨🇦-DR-Anv- § 17"
-      - "TUIC-DR-Anv🇩🇪"
-      - "TUIC-DR-Anv-1🇩🇪"
-      - "TUIC-DR-Anv-2🇩🇪"
-      - "TUIC-🇩🇪 Dr-Anv-1"
-      - "TUIC-🇩🇪 Dr-Anv-2"
 
   - name: "اتصال❤️خودکار"
     type: url-test
@@ -1817,11 +1812,6 @@ proxy-groups:
       - "🇹🇷-DR-Anv- § 15"
       - "🇺🇸3-DR-Anv- § 16"
       - "🇨🇦-DR-Anv- § 17"
-      - "TUIC-DR-Anv🇩🇪"
-      - "TUIC-DR-Anv-1🇩🇪"
-      - "TUIC-DR-Anv-2🇩🇪"
-      - "TUIC-🇩🇪 Dr-Anv-1"
-      - "TUIC-🇩🇪 Dr-Anv-2"
 
   - name: "🤍 وارپ"
     type: url-test
