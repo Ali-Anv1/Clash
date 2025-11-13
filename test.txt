@@ -401,7 +401,7 @@ proxies:
     cipher: aes-128-gcm
     password: "shadowsocks"
     dialer-proxy: "VLESS-Entry"
-  - name: "Dr-Anv-I"
+  - name: "Dr-Anv-🇮🇷"
     type: ss
     server: 193.29.139.191
     port: 8080
@@ -1965,7 +1965,7 @@ proxy-groups:
   - name: "⛓️عمو زنجیر باف⛓️"
     type: select
     proxies:
-      - "Dr-Anv-I"
+      - "Dr-Anv-🇮🇷"
       - "🇺🇸-DR-Anv- § 0"
       - "🇵🇾-DR-Anv- § 1"
       - "🇬🇧-DR-Anv- § 2"
