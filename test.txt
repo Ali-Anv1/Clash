@@ -113,19 +113,7 @@ proxies:
     congestion-controller: cubic
     skip-cert-verify: true
 
-    # مهم: این پارامتر جایگزین allow-insecure شده است
-    skip-cert-verify: true
-    congestion_control: bbr
-    udp_relay_mode: native
-    reduce_rtt: true
-
     # برای جلوگیری از خطای گواهی SSL
-    skip-cert-verify: true
-    congestion_control: bbr
-    udp_relay_mode: native
-    reduce_rtt: true
-
-    # برای جلوگیری از خطای گواهی SSL (معادل allowInsecure=1)
     skip-cert-verify: true
     congestion_control: bbr
     udp_relay_mode: native
