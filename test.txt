@@ -1747,12 +1747,7 @@ proxy-groups:
       - "DR-Anv-🇵🇱-61"
       - "DR-Anv-🇵🇱-62"
       - "DR-Anv-🇵🇱-66"
-      - "DR-Anv-🇵🇱-67"
-      - "TUIC-DR-Anv🇩🇪"
-      - "TUIC-DR-Anv-1🇩🇪"
-      - "TUIC-DR-Anv-2🇩🇪"
-      - "TUIC-🇩🇪 Dr-Anv-1"
-      - "TUIC-🇩🇪 Dr-Anv-2"     
+      - "DR-Anv-🇵🇱-67"  
       - "🇩🇪 ShadowTLS-Proxy"
       - "🇩🇪 anytls-443"
 
