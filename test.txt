@@ -94,12 +94,6 @@ proxies:
     sni: "suiany.makingirangreatagain.com"
     servername: "suiany.makingirangreatagain.com"
 
-    # مهم: این پارامتر جایگزین allow-insecure شده است
-    skip-cert-verify: true
-    congestion_control: bbr
-    udp_relay_mode: native
-    reduce_rtt: true
-
   - name: "Dr-Anv 🇨🇦"
     type: tuic
     server: 40.233.77.57
