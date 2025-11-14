@@ -130,7 +130,14 @@ proxies:
     port: 990
     cipher: chacha20-ietf-poly1305
     password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-    
+
+  - name: "Dr-Anv 2 🇺🇸"
+    type: ss
+    server: 45.87.175.187
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "cvII85UrW6n0OGyfpHVS1u"
+
   - name: "🇳🇱 DR-Anv - 1"
     type: hysteria2
     server: 206.71.158.37
@@ -199,6 +206,7 @@ proxies:
     server: 91.149.238.71
     port: 30102
     password: "338ce171-d764-4610-8fd5-6688b0d321f0"
+    tls: true
   - name: "🇳🇱 DR-Anv - 6"
     type: hysteria2
     server: 81.168.83.89
@@ -1705,6 +1713,7 @@ proxy-groups:
       - "🤍 وارپ"
       - "⚖️ Load-Balance"
       - "Dr-Anv 🇨🇦"
+      -"Dr-Anv 2 🇺🇸"
       - "Dr-Anv 🇬🇧"
       - "Us-DR-Anv-🇺🇸"
       - "🇳🇱 DR-Anv - 02"
