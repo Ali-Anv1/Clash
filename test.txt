@@ -1713,7 +1713,7 @@ proxy-groups:
       - "🤍 وارپ"
       - "⚖️ Load-Balance"
       - "Dr-Anv 🇨🇦"
-      -"Dr-Anv 2 🇺🇸"
+      - "Dr-Anv 2 🇺🇸"
       - "Dr-Anv 🇬🇧"
       - "Us-DR-Anv-🇺🇸"
       - "🇳🇱 DR-Anv - 02"
