@@ -137,7 +137,7 @@ proxies:
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: "cvII85UrW6n0OGyfpHVS1u"
-
+    udp : true 
   - name: "🇳🇱 DR-Anv - 1"
     type: hysteria2
     server: 206.71.158.37
