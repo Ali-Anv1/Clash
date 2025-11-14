@@ -194,6 +194,11 @@ proxies:
     obfs: salamander
     obfs-password: "Yet-Another-Public-Config-1"
     skip-cert-verify: false
+  - name: "Dr-Anv 🇬🇧"
+    type: hysteria2
+    server: 91.149.238.71
+    port: 30102
+    password: "338ce171-d764-4610-8fd5-6688b0d321f0"
   - name: "🇳🇱 DR-Anv - 6"
     type: hysteria2
     server: 81.168.83.89
@@ -1700,6 +1705,7 @@ proxy-groups:
       - "🤍 وارپ"
       - "⚖️ Load-Balance"
       - "Dr-Anv 🇨🇦"
+      -"Dr-Anv 🇬🇧"
       - "Us-DR-Anv-🇺🇸"
       - "🇳🇱 DR-Anv - 02"
       - "🇫🇮 DR-Anv - 0"
