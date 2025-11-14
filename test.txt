@@ -207,6 +207,7 @@ proxies:
     port: 30102
     password: "338ce171-d764-4610-8fd5-6688b0d321f0"
     tls: true
+    skip-cert-verify: true
   - name: "🇳🇱 DR-Anv - 6"
     type: hysteria2
     server: 81.168.83.89
