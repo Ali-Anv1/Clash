@@ -84,6 +84,7 @@ proxies:
       host: www.google.com
       password: "164c1a57-a952-4962-a848-77355f4864fc"
       version: 3
+    outbound-proxy: "Us-DR-Anv-🇺🇸"
 #AnyTLS
   - name: "🇩🇪 anytls-443"
     type: anytls
@@ -342,7 +343,7 @@ proxies:
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    outbound-proxy: "Us-DR-Anv-🇺🇸"
+    dialer-proxy: "VLESS-Entry"
   - name: "🇵🇾-DR-Anv- § 1"
     type: ss
     server: 195.181.160.6
