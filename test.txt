@@ -93,7 +93,6 @@ proxies:
     tls: true
     sni: "suiany.makingirangreatagain.com"
     servername: "suiany.makingirangreatagain.com"
-    dialer-proxy: "VLESS-Entry"
 
   - name: "Dr-Anv 🇨🇦"
     type: tuic
