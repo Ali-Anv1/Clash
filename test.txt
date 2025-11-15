@@ -342,7 +342,7 @@ proxies:
     port: 8080
     cipher: chacha20-ietf-poly1305
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    dialer-proxy: "VLESS-Entry"
+    outbound-proxy: "Us-DR-Anv-🇺🇸"
   - name: "🇵🇾-DR-Anv- § 1"
     type: ss
     server: 195.181.160.6
