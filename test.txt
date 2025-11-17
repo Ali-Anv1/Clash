@@ -1724,6 +1724,7 @@ proxy-groups:
       - "⛓️عمو زنجیر باف⛓️"
       - "🤍 وارپ"
       - "⚖️ Load-Balance"
+      - "🇭🇰 anytls"
       - "Dr-Anv 🇨🇦"
       - "Dr-Anv 2 🇺🇸"
       - "Dr-Anv 🇬🇧"
@@ -1753,7 +1754,7 @@ proxy-groups:
       - "DR-Anv-🇵🇱-67"  
       - "🇩🇪 ShadowTLS-Proxy"
       - "🇩🇪 anytls-443"
-      - "🇭🇰 anytls"
+      
 
   - name: ⚖️ Load-Balance
     type: load-balance
