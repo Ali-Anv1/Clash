@@ -1732,6 +1732,7 @@ proxy-groups:
       - "⛓️عمو زنجیر باف⛓️"
       - "🤍 وارپ"
       - "⚖️ Load-Balance"
+      - "🇹🇷 😎DR-Anv 1"
       - "🇭🇰 anytls"
       - "Dr-Anv 🇨🇦"
       - "Dr-Anv 2 🇺🇸"
