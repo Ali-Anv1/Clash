@@ -103,7 +103,7 @@ proxies:
     sni : "apple.com"
     servername: apple.com
     skip-cert-verify: true
-
+    outbound-proxy: "🇹🇷 😎DR-Anv 1"
 
   - name: "Dr-Anv 🇨🇦"
     type: tuic
@@ -149,6 +149,14 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: "cvII85UrW6n0OGyfpHVS1u"
     udp : true 
+  - name: "🇹🇷 😎DR-Anv 1"
+    type: hysteria2
+    server: kevin.vpny.online
+    port: 22002
+    password: "@KevinZakarian"
+    obfs: salamander
+    obfs-password: "KevinZakarian"
+    skip-cert-verify: true
   - name: "🇳🇱 DR-Anv - 1"
     type: hysteria2
     server: 206.71.158.37
