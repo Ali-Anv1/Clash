@@ -94,6 +94,17 @@ proxies:
     sni: "suiany.makingirangreatagain.com"
     servername: "suiany.makingirangreatagain.com"
 
+  - name: "🇭🇰 anytls"
+    type: anytls
+    server: qianzhisuidao.v2bp.online
+    port: 10000
+    password: ae30e96f-acb7-46c0-b132-d45bd81ea9fb
+    tls : true
+    sni : "apple.com"
+    servername: apple.com
+    skip-cert-verify: true
+
+
   - name: "Dr-Anv 🇨🇦"
     type: tuic
     server: 40.233.77.57
