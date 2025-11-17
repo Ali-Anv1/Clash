@@ -1753,6 +1753,7 @@ proxy-groups:
       - "DR-Anv-🇵🇱-67"  
       - "🇩🇪 ShadowTLS-Proxy"
       - "🇩🇪 anytls-443"
+      - "🇭🇰 anytls"
 
   - name: ⚖️ Load-Balance
     type: load-balance
