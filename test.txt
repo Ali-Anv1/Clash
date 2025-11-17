@@ -103,8 +103,7 @@ proxies:
     sni : "apple.com"
     servername: apple.com
     skip-cert-verify: true
-    outbound-proxy: kevin.vpny.online
-    outbound-proxy port: 22002
+    outbound-proxy: "🇹🇷 😎DR-Anv 1"
 
   - name: "Dr-Anv 🇨🇦"
     type: tuic
