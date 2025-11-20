@@ -467,6 +467,294 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: "JIhN6rBKkaEboLNXVSv5rq"
     dialer-proxy: "VLESS-Entry"
+
+#Dr-Chain
+  - name: "DR-Anv🏳️"
+    type: vless
+    server: 104.25.44.32
+    port: 443
+    uuid: ab27941d-6abf-4eb8-b701-6779b045f18f
+    network: ws
+    tls: true
+    udp: true
+    servername: ZONE-6i9.paGEs.dEV
+    client-fingerprint: chrome
+    ws-opts:
+      path: "/UzReuUJaAdPphHq1/NzcuMTEwLjEwMi4z"
+      headers:
+        Host: zone-6i9.pages.dev
+
+  - name: "🇪🇸DR-Anv § 0"
+    type: ss
+    server: 45.154.206.192
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇫🇮DR-Anv § 1"
+    type: ss
+    server: 37.143.129.230
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇫🇷DR-Anv § 2"
+    type: ss
+    server: 45.158.171.66
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇹🇷DR-Anv § 3"
+    type: ss
+    server: 185.123.101.241
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇳🇱 DR-Anv  § 4"
+    type: ss
+    server: 193.29.139.251
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇨🇦DR-Anv § 5"
+    type: ss
+    server: 64.74.163.82
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇳🇱DR-Anv § 6"
+    type: ss
+    server: 193.29.139.175
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "1RWwXhwfAB5gAEozU4G2Pg"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇺🇸DR-Anv § 7"
+    type: ss
+    server: 173.244.56.6
+    port: 443
+    cipher: aes-128-gcm
+    password: "shadowsocks"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇨🇦DR-Anv § 8"
+    type: ss
+    server: 142.4.216.225
+    port: 80
+    cipher: chacha20-ietf-poly1305
+    password: "JIhN6rBKkaEboLNXVSv5rq"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇳🇱DR-Anv § 9"
+    type: ss
+    server: 193.29.139.179
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "cvII85TrW6n0OGyfpHVS1u"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇵🇱DR-Anv § 10"
+    type: ss
+    server: 217.30.10.18
+    port: 9088
+    cipher: aes-256-cfb
+    password: "f8npKgNzdkss2ytn"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇻🇳DR-Anv § 11"
+    type: ss
+    server: 103.186.155.36
+    port: 38388
+    cipher: aes-256-cfb
+    password: "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇻🇳DR-Anv § 12"
+    type: ss
+    server: 103.186.155.23
+    port: 38388
+    cipher: aes-256-cfb
+    password: "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇵🇹DR-Anv § 13"
+    type: ss
+    server: 185.231.233.112
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇯🇵DR-Anv § 14"
+    type: ss
+    server: 149.22.87.204
+    port: 443
+    cipher: aes-128-gcm
+    password: "shadowsocks"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇨🇵DR-Anv § 15"
+    type: ss
+    server: 51.195.119.47
+    port: 1080
+    cipher: chacha20-ietf-poly1305
+    password: "qXvO7zYU7KeaB0Md7DQLow"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇳🇱DR-Anv § 16"
+    type: ss
+    server: 193.29.139.202
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇨🇿DR-Anv § 17"
+    type: ss
+    server: 195.181.160.6
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇫🇷DR-Anv § 18"
+    type: ss
+    server: 45.158.171.70
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇦🇪DR-Anv § 19"
+    type: ss
+    server: 151.242.251.131
+    port: 8080
+    cipher: chacha20-ietf-poly1305
+    password: "QCXDxuDlTTMD7jtgHUjIoj"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: " 🇸🇪DR-Anv § 20"
+    type: ss
+    server: 121.127.46.147
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇪🇪DR-Anv § 21"
+    type: ss
+    server: 185.193.49.88
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: " 🇮🇸 DR-Anv § 22"
+    type: ss
+    server: 37.235.49.168
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇺🇸DR-Anv § 23"
+    type: ss
+    server: 173.244.56.9
+    port: 443
+    cipher: aes-128-gcm
+    password: "shadowsocks"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇧🇷 DR-Anv § 24"
+    type: ss
+    server: 185.192.124.188
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇮🇳 DR-Anv § 25"
+    type: ss
+    server: 134.209.147.198
+    port: 990
+    cipher: chacha20-ietf-poly1305
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇵🇪DR-Anv § 26"
+    type: ss
+    server: 138.186.143.32
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇵🇱DR-Anv § 27"
+    type: ss
+    server: 217.30.10.70
+    port: 9025
+    cipher: aes-256-cfb
+    password: "XPtzA9sCug3SPR4c"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇵🇱DR-Anv § 28"
+    type: ss
+    server: 217.30.10.70
+    port: 9057
+    cipher: aes-256-cfb
+    password: "wjTugX3ZtHMB9c3Z"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇬🇷DR-Anv § 29"
+    type: ss
+    server: 192.71.166.100
+    port: 989
+    cipher: aes-256-cfb
+    password: "f8f7aCzcPKbsF8p3"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇺🇸DR-Anv § 30"
+    type: ss
+    server: 156.146.38.169
+    port: 443
+    cipher: aes-128-gcm
+    password: "shadowsocks"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: " 🇺🇸DR-Anv § 31"
+    type: ss
+    server: 156.146.38.170
+    port: 443
+    cipher: aes-128-gcm
+    password: "shadowsocks"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: "🇵🇱DR-Anv § 32"
+    type: ss
+    server: 217.30.10.70
+    port: 9038
+    cipher: aes-256-cfb
+    password: "gYCYXfkUQEs2TaJQ"
+    dialer-proxy: "DR-Anv🏳️"
+
+  - name: " 🇺🇸DR-Anv § 33"
+    type: ss
+    server: 138.199.42.68
+    port: 8080
+    cipher: rc4-md5
+    password: "14fFPrbezE3HDZzsMOr6"
+    dialer-proxy: "DR-Anv🏳️"
     
 #warp
   - name: "🇦🇹 DR-Anv"
@@ -1926,7 +2214,50 @@ proxy-groups:
       - "🇹🇷-DR-Anv- § 15"
       - "🇺🇸3-DR-Anv- § 16"
       - "🇨🇦-DR-Anv- § 17"
-      
+
+  - name: "DR-Chain"
+    type: url-test
+    url: "http://www.gstatic.com/generate_204"
+    interval: 30
+    tolerance: 120
+    proxies:
+      - "🇪🇸DR-Anv § 0"
+      - "🇫🇮DR-Anv § 1"
+      - "🇫🇷DR-Anv § 2"
+      - "🇹🇷DR-Anv § 3"
+      - "🇳🇱 DR-Anv  § 4"
+      - "🇨🇦DR-Anv § 5"
+      - "🇳🇱DR-Anv § 6"
+      - "🇺🇸DR-Anv § 7"
+     - "🇨🇦DR-Anv § 8"
+     - "🇳🇱DR-Anv § 9"
+     - "🇵🇱DR-Anv § 10"
+     - "🇻🇳DR-Anv § 11"
+     - "🇻🇳DR-Anv § 12"
+     - "🇵🇹DR-Anv § 13"
+     - "🇯🇵DR-Anv § 14"
+     - "🇨🇵DR-Anv § 15"
+     - "🇳🇱DR-Anv § 16"
+     - "🇨🇿DR-Anv § 17"
+     - "🇫🇷DR-Anv § 18"
+     - "🇦🇪DR-Anv § 19"
+     - " 🇸🇪DR-Anv § 20"
+     - "🇪🇪DR-Anv § 21"
+     - " 🇮🇸 DR-Anv § 22"
+     - "🇺🇸DR-Anv § 23"
+     - "🇧🇷 DR-Anv § 24"
+     - "🇮🇳 DR-Anv § 25"
+     - "🇵🇪DR-Anv § 26"
+     - "🇵🇱DR-Anv § 27"
+     - "🇵🇱DR-Anv § 28"
+     - "🇬🇷DR-Anv § 29"
+     - "🇺🇸DR-Anv § 30"
+     - " 🇺🇸DR-Anv § 31"
+     - "🇵🇱DR-Anv § 32"
+     - " 🇺🇸DR-Anv § 33"
+
+
+
 rule-providers:
   malware:
     type: http
