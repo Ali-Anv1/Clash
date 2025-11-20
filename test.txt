@@ -2217,10 +2217,7 @@ proxy-groups:
       - "🇨🇦-DR-Anv- § 17"
 
   - name: "DR-Chain"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 30
-    tolerance: 120
+    type: select
     proxies:
       - "🇪🇸DR-Anv § 0"
       - "🇫🇮DR-Anv § 1"
