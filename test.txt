@@ -467,6 +467,7 @@ proxies:
     network: ws
     tls: true
     udp: true
+    flow: ""
     servername: ZONE-6i9.paGEs.dEV
     client-fingerprint: chrome
     ws-opts:
