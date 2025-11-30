@@ -828,6 +828,18 @@ proxies:
       h4: 3
       h3: 4
 
+  - name: "DR-US"
+    type: wireguard
+    server: "204.188.226.243"
+    port: 37204
+    ip: "10.226.243.174/30"
+    private-key: "9nxpSRB7EW+e0Ve67dzY3wMYu7pQkcv4rKAPtr/e0uY="
+    public-key: "/JTUERGBT0Zyf/jyX/kd+oanF4ZcBgR8e6bxaiNSs1U="
+    allowed-ips: ["0.0.0.0/0"]
+    udp: true
+    mtu: 1280
+    dns: ["1.1.1.1"]
+
   - name: "🇦🇺 DR-Anv-3"
     type: wireguard
     ip: "100.80.234.177/32"
@@ -2136,6 +2148,7 @@ proxy-groups:
     interval: 60
     tolerance: 90
     proxies:
+      - "DR-US"
       - "🇦🇹 DR-Anv"
       - "🇦🇺 DR-Anv-1"
       - "🇦🇺 DR-Anv-2"
